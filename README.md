@@ -88,7 +88,7 @@
 </head>
 <body>
     <header>
-        <h1>Bienvenido a Mi Página Web</h1>
+        <h1>investigacion sobre el maquillaje</h1>
         <p>Un sitio creado con HTML y CSS</p>
     </header>
     
